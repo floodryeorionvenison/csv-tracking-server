@@ -1,0 +1,16 @@
+{
+  "name": "csv-tracking-server",
+  "version": "1.0.0",
+  "description": "Een server om gebruikte personen te tracken in een CSV.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "cors": "^2.8.5"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
